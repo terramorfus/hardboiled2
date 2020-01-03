@@ -86,12 +86,11 @@ img{
     margin-right: auto;
     border: solid thick;
     height: 500px;
-    max-width: 75%;
+    max-width: 65%;
 }
 ol{
     text-align: center;
 }
-
 footer {
     background-color: linen;
     color: slategray;

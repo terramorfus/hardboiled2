@@ -79,6 +79,14 @@ h4 {
     padding: 31px;
     margin: 31px;
 }
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid thick;
+    height: 500px;
+    max-width: 75%;
+}
 #fleuron {
     list-style-type: square;
     color: lightgray;

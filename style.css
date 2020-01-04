@@ -79,7 +79,7 @@ h4 {
     padding: 31px;
     margin: 31px;
 }
-.center{
+.align-center {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -94,7 +94,7 @@ h4 {
     padding: 15px;
     text-align: center;
 }
-ol{
+ol {
     text-align: center;
 }
 footer {
